@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Laundry</string>
+    <string name="silahkan_login">SILAHKAN LOGIN</string>
+    <string name="masukan_username">Masukan Username</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="tampilkan_password">Tampilkan Password</string>
+    <string name="login">login</string>
+    <string name="masukan_username_dan_password_dengan_benar">Masukan username dan password dengan benar</string>
+    <string name="selamat_datang">SELAMAT DATANG</string>
+    <string name="anda_telah_berhasil_login">Anda Telah Berhasil Login</string>
+</resources>
